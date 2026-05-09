@@ -9,27 +9,28 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i>
             Account Opening
           </h4>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Online Account Opening</a>
+          <a 
+           style={{textDecoration:"none", lineHeight:"2.5"}}>Online Account Opening</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Offline Account Opening</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Offline Account Opening</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Company ,Partnership and HUF Account</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Company ,Partnership and HUF Account</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Opening</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Opening</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>NRI Account Opening</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>NRI Account Opening</a>
 
           <br />
 
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Charges at Zerodha</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Charges at Zerodha</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Zerodha IDFC FIRST Bank 3-in-1 Account</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Zerodha IDFC FIRST Bank 3-in-1 Account</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Getting Started</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Getting Started</a>
 
           <br />
         </div>
@@ -38,27 +39,27 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i>
             Account Opening
           </h4>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Online Account Opening</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Online Account Opening</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Offline Account Opening</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Offline Account Opening</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Company ,Partnership and HUF Account</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Company ,Partnership and HUF Account</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Opening</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Opening</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>NRI Account Opening</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>NRI Account Opening</a>
 
           <br />
 
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Charges at Zerodha</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Charges at Zerodha</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Zerodha IDFC FIRST Bank 3-in-1 Account</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Zerodha IDFC FIRST Bank 3-in-1 Account</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Getting Started</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Getting Started</a>
 
           <br />
         </div>
@@ -67,17 +68,17 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i>
             Your Zerodha Account
           </h4>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Your Profile</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Your Profile</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Account modification</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Account modification</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Client Master Report(CMR) AND Depository Participant(DP)</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Client Master Report(CMR) AND Depository Participant(DP)</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Nomination</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Nomination</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Transfer and conversion of securities</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Transfer and conversion of securities</a>
 
           <br />
 
@@ -88,21 +89,21 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i>
             Kite
           </h4>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}> IPO</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}> IPO</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Trading FAQs</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Trading FAQs</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Margin Trading Fcility (MTF) and Margins</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Margin Trading Fcility (MTF) and Margins</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Charts and orders</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Charts and orders</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Alerts and Nudges</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Alerts and Nudges</a>
 
           <br />
 
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>General</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>General</a>
 
           <br />
           
@@ -112,14 +113,14 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i>
             Funds
           </h4>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Add money</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Add money</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Withdraw money</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Withdraw money</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Add bank account</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Add bank account</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>eMandate</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>eMandate</a>
 
           <br />
           
@@ -129,21 +130,21 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i>
             Console
           </h4>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Portfolio</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Portfolio</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Corporate actions</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Corporate actions</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Fuds statement</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Fuds statement</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Reports</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Reports</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Profile</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Profile</a>
 
           <br />
 
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Segments</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Segments</a>
 
           <br />
           
@@ -153,21 +154,21 @@ function CreateTicket() {
             <i class="fa fa-plus-circle" aria-hidden="true"></i>
            Coin
           </h4>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Mutual funds</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Mutual funds</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>National Pension Scheme(NPS)</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>National Pension Scheme(NPS)</a>
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Fixed Deposit (DP)</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Fixed Deposit (DP)</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Features on coin</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Features on coin</a>
 
           <br />
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Payments and Orders</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>Payments and Orders</a>
 
           <br />
 
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>General</a>
+          <a href="/" style={{textDecoration:"none", lineHeight:"2.5"}}>General</a>
 
           <br />
           

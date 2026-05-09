@@ -25,7 +25,7 @@ function Team() {
           is a member of the SEBI Secondary Market Advisory Committee (SMAC) and
           the Market Data Advisory Committee (MDAC). </p>
           <p>Playing basketball is his
-          zen.</p> Connect on <a href="">Homepage</a> / <a href="">TradingQnA</a> / <a href="">Twitter</a>
+          zen.</p> Connect on <a href="/">Homepage</a> / <a href="/">TradingQnA</a> / <a href="/">Twitter</a>
         </div>
       </div>
     </div>
