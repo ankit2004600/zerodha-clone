@@ -12,7 +12,8 @@ function Team() {
         <div className="col-6 p-5 text-center">
           <img
             src="media/images/nithinKamath.jpg"
-            style={{ borderRadius: "100%", width: "60%" }}
+            alt="Nithin Kamath"
+            style={{ borderRadius: "100%", width: "60%" }} 
           />
           <h4 className="mt-5">Nithin Kamath</h4>
           <h6>Founder & CEO</h6>

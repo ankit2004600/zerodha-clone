@@ -13,41 +13,41 @@ function Universe() {
           
         
         <div className="col-4 p-3  ">
-          <img src="media/images/zerodhaFundhouse.png" />
+          <img src="media/images/zerodhaFundhouse.png" alt="Zerodha Fundhouse" />
           <p className="text-small text-muted">Our asset management venture
 that is creating simple and transparent index
 funds to help you save for your goals.
 </p>
         </div>
         <div className="col-4 p-3  ">
-          <img src="media/images/sensibullLogo.svg"/>
+          <img src="media/images/sensibullLogo.svg" alt="Sensibull Logo" />
           <p className="text-small text-muted">Options trading platform that lets you
 create strategies, analyze positions, and examine
 data points like open interest, FII/DII, and more.
 </p>
         </div>
         <div className="col-4 p-3 ">
-          <img src="media/images/smallcasesLogo.png" />
+          <img src="media/images/smallcasesLogo.png" alt="SmallCases Logo" />
           <p className="text-small text-muted">Investment research platform
 that offers detailed insights on stocks,
 sectors, supply chains, and more.
 </p>
         </div>
         <div className="col-4 p-3  ">
-          <img src="media/images/dittoLogo.png" />
+          <img src="media/images/dittoLogo.png" alt="Ditto Logo" />
           <p className="text-small text-muted">Personalized advice on life
 and health insurance. No spam
 and no mis-selling.
 Sign up for free</p>
         </div>
         <div className="col-4 p-3  ">
-          <img src="media/images/smallcasesLogo.png"/>
+          <img src="media/images/smallcasesLogo.png" alt="SmallCases Logo" />
           <p className="text-small text-muted">Thematic investing platform
 that helps you invest in diversified
 baskets of stocks on ETFs.</p>
         </div>
         <div className="col-4 p-3 ">
-          <img src="media/images/streakLogo.png" />
+          <img src="media/images/streakLogo.png" alt="Streak Logo" />
           <p className="text-small text-muted">
 Systematic trading platform
 that allows you to create and backtest
