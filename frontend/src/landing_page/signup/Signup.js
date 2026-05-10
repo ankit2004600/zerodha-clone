@@ -5,7 +5,7 @@ function Signup() {
     const token = localStorage.getItem("token");
 
 if(token){
-  window.location.href = "https://your-frontend-name.onrender.com";
+  window.location.href = "/";
 }
 
   const [username, setUsername] = useState("");
@@ -27,7 +27,7 @@ if(token){
 
       alert(res.data.message);
 
-      window.location.href = "/login";
+      window.location.href = "https://zerodha-clone-3-i7rg.onrender.com/";
 
     } catch (err) {
 
@@ -73,7 +73,7 @@ if(token){
 
 <button
   onClick={() => {
-    window.location.href = "/login";
+    window.location.href = "https://zerodha-clone-3-i7rg.onrender.com/";
   }}
 >
   Login

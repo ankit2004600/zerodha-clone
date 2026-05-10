@@ -28,7 +28,7 @@ const handleLogin = async () => {
     alert("Login Successful");
 
     window.location.href =
-      "https://your-frontend-name.onrender.com";
+      "https://zerodha-clone-3-i7rg.onrender.com";
 
   } catch (err) {
 
@@ -75,7 +75,7 @@ const handleLogin = async () => {
 
     <button
       onClick={() => {
-        window.location.href = "/signup";
+        window.location.href = "https://zerodha-clone-3-i7rg.onrender.com";
       }}
     >
       Signup
