@@ -11,7 +11,7 @@ const handleLogin = async () => {
   try {
 
     const res = await axios.post(
-      "http://localhost:5000/login",
+      "https://zerodha-clone-1-iy2m.onrender.com/login",
       {
         email,
         password,

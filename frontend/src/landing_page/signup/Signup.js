@@ -17,7 +17,7 @@ if(token){
     try {
 
       const res = await axios.post(
-        "http://localhost:5000/signup",
+        "https://zerodha-clone-1-iy2m.onrender.com/signup",
         {
           username,
           email,
