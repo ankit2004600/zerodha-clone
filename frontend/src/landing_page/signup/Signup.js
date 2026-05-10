@@ -5,7 +5,7 @@ function Signup() {
     const token = localStorage.getItem("token");
 
 if(token){
-  window.location.href = "http://localhost:3001";
+  window.location.href = "https://your-frontend-name.onrender.com";
 }
 
   const [username, setUsername] = useState("");

@@ -28,7 +28,7 @@ const handleLogin = async () => {
     alert("Login Successful");
 
     window.location.href =
-      "http://localhost:3001";
+      "https://your-frontend-name.onrender.com";
 
   } catch (err) {
 
