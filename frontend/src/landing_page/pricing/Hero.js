@@ -10,7 +10,7 @@ function Hero() {
       </div>
       <div className="row p-5 mt-5 text-center">
         <div className="col-4 p-5">
-          <img src="media/images/pricingEquity.svg" />
+          <img src="media/images/pricingEquity.svg" alt="pricing Equity" />
 
           <h1>Free equity delivery</h1>
           <p className="text-muted">
@@ -19,7 +19,7 @@ function Hero() {
           </p>
           </div>
          <div className="col-4 p-5">
-          <img src="media/images/intradayTrades.svg" />
+          <img src="media/images/intradayTrades.svg" alt="intraday Traders"/>
 
           <h1>Intraday and F&O trades</h1>
           <p className="text-muted">
@@ -27,7 +27,7 @@ function Hero() {
           </p>
           </div>
           <div className="col-4 p-5">
-          <img src="media/images/pricingEquity.svg" />
+          <img src="media/images/pricingEquity.svg" alt="pricing Equity" />
 
           <h1>Free direct MF</h1>
           <p className="text-muted">
